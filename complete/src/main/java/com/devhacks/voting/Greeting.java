@@ -1,4 +1,4 @@
-package hello;
+package com.devhacks.voting;
 
 public class Greeting {
 
